@@ -1,0 +1,46 @@
+patient_id: 
+  P12345
+name: 
+  Amir Bismail
+age: 
+  35
+birth_date: 
+  August 19, 1989
+address: 
+  No. 12, Jalan Seri Kembangan, 43300 Seri Kembangan, Selangor
+contact_number: 
+  012-3456789
+insurance: 
+  Health Insurance Plan A
+medical_history: 
+  diagnoses: Hypertension
+  surgeries: Appendectomy
+  allergies: Penicillin
+  family_history: Heart disease
+  past_medications: Metformin
+treatment_logs: 
+  date: 2023-11-15
+  diagnosis: Hypertension
+  treatment: Prescribed medication: Losartan 50mg daily
+  outcome: Blood pressure lowered
+  side_effects: None reported
+  notes: Patient advised to monitor blood pressure regularly
+current_conditions: 
+  diagnosis: Pneumonia
+  prescriptions: [{'medication': 'Amoxicillin', 'form': 'tablet', 'dosage': '500mg twice daily', 'quantity': '25 tablets', 'duration': '7 days'}]
+  treatment_plan: {'medications': 'As prescribed', 'remark': 'Rest for at least 7 days', 'follow-up': 'Schedule a follow-up in 7 days'}
+  vitals: {'temperature': 101.5, 'heart_rate': 95, 'blood_pressure': '130/80 mmHg', 'respiration_rate': 22}
+appointments: 
+  date: 2025-02-15
+  time: 10:00 AM
+  doctor: Dr. Smith
+service_requests: 
+  type: Follow-up appointment
+  details: Request a follow-up appointment with Dr. Smith in 2 weeks
+billing_details: 
+  insurance_provider: Health Insurance Plan A
+  outstanding_balance: 500.0
+payment_history: 
+  date: 2023-11-25
+  amount: 300.0
+  payment_method: Cash

@@ -1,0 +1,5 @@
+P12345,No. 12, Jalan Seri Kembangan, 43300 Seri Kembangan, Selangor,012-3456789,Health Insurance Plan A
+P23456,No. 45, Jalan Puteri, 81300 Skudai, Johor,013-5678901,Health Insurance Plan B
+P34567,No. 789, Jalan Ipoh, 51200 Kuala Lumpur,014-6789012,Health Insurance Plan C
+P45678,No. 101, Jalan Tuanku Abdul Rahman, 50300 Kuala Lumpur,015-7890123,Health Insurance Plan D
+P56789,No. 202, Jalan Peel, 50100 Kuala Lumpur,016-8901234,Health Insurance Plan E

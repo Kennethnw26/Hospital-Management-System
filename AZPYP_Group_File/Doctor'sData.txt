@@ -1,0 +1,8 @@
+ID,Name,Diagnosis,Prescriptions,Appointments,Status,Assigned Doctor
+_,_,_,_,_,_,_
+P12345,Amir Bismail,Pneumonia,Amoxicillin     |     Cough syrup,2025-2-15 | 12:00 PM,Further hospital stay recommended,Dr. Smith
+P23456,Siti Sipayung,Bronchitis,Albuterol Inhaler,2025-04-28 | 09:00 AM,Further hospital stay recommended,Dr. Lee
+P34567,Tan Ah Kow,Allergic Rhinitis,Fexofenadine,2025-06-12 | 02:00 PM,Further hospital stay recommended,Dr. Johnson
+P45678,Lim Mei Ling,Acute Sinusitis,Amoxicillin-Clavulanate,2025-09-03 | 11:00 AM,Further hospital stay recommended,Dr. Kim
+P56789,Kumar Murugan,Acute Gout Flare-up,Allopurinol,2025-11-21 | 03:00 PM,Further hospital stay recommended,Dr. Chen
+_,_,_,_,_,_,_

@@ -1,0 +1,11 @@
+Medication,Form,Dosage,Quantity,Duration,Name
+_,_,_,_,_,_
+Amoxicillin,tablet,500mg twice daily,25 tablets,7 days,Amir Bismail
+Cough syrup,capsule,10ml thrice daily,10 capsules,5 days,Amir Bismail
+Albuterol inhaler,liquid,2 puffs every 4 hours as needed,-,-,Siti Sipayung
+Ibuprofen,tablet,400mg every 6 hours as needed for pain,-,-,Siti Sipayung
+Fexofenadine,capsule,180mg once daily,20 capsules,8 days,Tan Ah Kow
+Amoxicillin-Clavulanate,tablet,500mg twice daily,10 tablets,10 days,Lim Mei Ling
+Nasal saline spray,liquid,As needed,-,-,Lim Mei Ling
+Allopurinol,capsule,100mg daily,15 capsules,9 days,Kumar Murugan
+Indomethacin,tablet,50mg three times daily,5 tablets,3 days,Kumar Murugan

@@ -1,0 +1,5 @@
+P12345,Follow-up appointment,Request a follow-up appointment with Dr. Smith in 2 weeks
+P23456,Specific doctor,Request an appointment with Dr. Kim
+P34567,Specialist consultation,Request consultation with Dr. Chen
+P45678,Medication refill,Request a refill for the prescribed medication
+P56789,Second opinion,Request a second opinion for the current diagnosis

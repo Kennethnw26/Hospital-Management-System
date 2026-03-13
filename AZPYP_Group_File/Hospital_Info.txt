@@ -1,0 +1,6 @@
+Hospital services, Doctors, Departments
+-Specialist Consultation: Request consultation with Dr., -Dr. Smith, -Allergen: diagnosis and treatment of asthma and other allergic diseases
+-Follow-Up Appointment: Request a follow-up appointment with a specific Dr., -Dr. Lee,  -Emergency Departments(ED): provide the needed medical support
+-Specific Doctor: Request consultation with a specific Dr., -Dr. Chen, -Pharmacy: medication-related services
+-Medication Refill: Request a refill for the prescribed medication, -Dr. Kim, -General surgery: broad spectrum of surgical procedures
+-Second Opinion: Request a second opinion for the current diagnosis, -Dr. Johnson, -Orthopaedics: Specializing in musculoskeletal conditions

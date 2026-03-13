@@ -1,0 +1,8 @@
+ID,Name,Past Diagnosis,Past Prescriptions/Treatments
+_,_,_,_
+P12345,Amir Bismail,Hypertension,Metformin
+P23456,Siti Sipayung,Asthma,Albuterol inhaler
+P34567,Tan Ah Kow,Seasonal Allergies,Fexofenadine
+P45678,Lim Mei Ling,Hyperlipidemia,Allopurinol
+P56789,Kumar Murugan,Osteoarthritis,Atorvastatin
+_,_,_,_

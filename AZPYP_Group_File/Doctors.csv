@@ -1,0 +1,6 @@
+Doctor_ID, Name, Specialization, Year of Experience, Contact Number, Available Hours, Appointment with Patient_ID 
+D001, William Smith, Cardiologist, 15 Years, 6012453678, Monday & Wednesday 10:00 AM - 4:00 PM, P12345
+D002, James Lee, Orthopedic Surgeon, 12 Years, 6025143625, Wednesday - Friday 9:00 AM - 2:30 PM, P23456
+D003, Anika Kim, Pediatrician, 8 Years, 6014325689, Friday-Sunday 9:00 AM-3:30 PM, P34567
+D004, Michael Johnson, Neurologist, 20 years, 6025314562, Tuesday & Friday 10:00 AM- 4:00 PM, P45678
+D005, Elena Chen, Dermatologist, 6 Years, Thursday & Saturday 1:00 PM - 5:00 PM, P56789

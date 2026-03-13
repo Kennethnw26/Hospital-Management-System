@@ -1,0 +1,5 @@
+P12345,Health Insurance Plan A,500.00
+P23456,Health Insurance Plan B,100.00
+P34567,Health Insurance Plan C,0.00
+P45678,Health Insurance Plan D,350.00
+P56789,Health Insurance Plan E,200.00

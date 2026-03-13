@@ -1,0 +1,11 @@
+Resource, Total, Occupied, Available, Under_Maintenance
+Beds, 120, 76, 32, 12
+Ventilators, 40,10,25,5
+X-Ray Machines,4,,3,1
+MRI Machines,2,0,2,0
+CT Scanners,2,0,1,1
+Laboratory Testing Equipment,50,0,45,5
+Wheelchairs,30,20,10,0
+Doctors, 5,,,,
+Nurses, 5,,,,
+Receptionist, 5,,,,

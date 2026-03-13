@@ -1,0 +1,5 @@
+P12345,Hypertension,Metformin
+P23456,Asthma,Albuterol inhaler
+P34567,Seasonal Allergies,Fexofenadine
+P45678,Hyperlipidemia,Allopurinol
+P56789,Osteoarthritis,Atorvastatin

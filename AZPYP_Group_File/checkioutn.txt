@@ -1,0 +1,5 @@
+P.Code, check-in/out status
+P12345, check-in
+P23456, check-out
+P34567, check-in
+P45678, check-out
